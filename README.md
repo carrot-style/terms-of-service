@@ -1,2 +1,3 @@
-# terms-of-use
-carrot.style Terms of Use
+# terms-of-service
+
+carrot.style Terms of Service
