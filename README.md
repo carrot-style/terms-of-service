@@ -1,6 +1,6 @@
 # terms-of-service
 
-> [carrot.style](https://carrot.style) Terms of Service.
+> [carrot.style](https://carrot.style) Terms of Service
 
 ---
 
@@ -11,4 +11,4 @@
 
 ---
 
-- Admin mail: ji@sungb.in
+- Contact mail: ji@sungb.in
